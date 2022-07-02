@@ -1,0 +1,27 @@
+.country-info {
+  border: 3px;
+  border-color: black;
+  width: 200px;
+}
+.country__img {
+  width: 150px;
+}
+
+.list__img {
+  height: 50px;
+  width: 60px;
+}
+
+.list-item {
+  display: flex;
+
+  align-items: center;
+}
+
+.text {
+  padding-left: 10px;
+}
+
+h2 {
+  font-size: 30px;
+}
